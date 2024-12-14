@@ -1,4 +1,4 @@
 # first-demo
 my first repository
 <br>
-author mawaddat zehra
+author mawaddat mirzo
